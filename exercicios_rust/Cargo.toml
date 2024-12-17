@@ -12,3 +12,7 @@ path = "src/exercicios/shadowing_execs.rs"
 [[bin]]
 name = "shadowing_execs_2"
 path = "src/exercicios/shadowing_execs_2.rs"
+
+[[bin]]
+name = "desestruturando"
+path = "src/exercicios/desestruturando.rs"
