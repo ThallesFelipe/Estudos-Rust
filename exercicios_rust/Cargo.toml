@@ -8,3 +8,7 @@ edition = "2021"
 [[bin]]
 name = "shadowing_execs"
 path = "src/exercicios/shadowing_execs.rs"
+
+[[bin]]
+name = "shadowing_execs_2"
+path = "src/exercicios/shadowing_execs_2.rs"
